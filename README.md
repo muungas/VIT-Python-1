@@ -1,7 +1,22 @@
 # VIT-Python-1
 
-# Soru -1 
-Kullanıcıdan Adi, Soyadi, Ogrenci Numarasi, 4 ders adi, bu derslerin Vize ve Final notlari istenecektir. Vize notunun % 40′ı ile Final Notunun %60′ınin toplamı yil sonu ortalamasini verecektir. Ortalama 50‘den küçükse ekranda “KALDI“, 50 ve üstüyse ekranda “GEÇTİ” yazdırılacaktır. 
-
-# Soru -2 
-Bir kisinin ağırlığının, boyuna göre normal olup olmadığını gösteren parametreye Beden Kitle İndeksi denir. Kısaca insanın kilosunu kişinin boy uzunluğunun karesine bölersek beden kitle indeksi ortaya çıkar. Kullanıcıdan kilo ve boy uzunluğunu alip çıkan sonuç 25'in altindaysa NORMAL, 25-30 arasında ise FAZLA KİLOLU, 30-40 arasında ise OBEZ, 40 ve üzerinde ise AŞIRI ŞİŞMAN şeklinde uyarı yazdiriniz.
+## soru 1: Kullanicidan dairenin yaricapini alip dairenin alanini hesaplayiniz. Dairenin alainin altini cizecek kadar "-" ekleyen Program yaziniz.
+### ornek:
+Dairenin Alani 232 cm2'dir.
+---------------------------
+## soru 2: Kisinin adini ve soyadini alip Selamlama hitabi yaziniz. Yazarken ad ve soyad yer degistirsin ve aralarina 3 adet bosluk ekleyen program yaziniz.
+## soru 3: Kisinin adini, soyadini, adresini alip alt alta yazdiriniz. Adresin altina adres kadar "*" ekleyiniz.
+### ornek:
+fenyx
+Academy
+Amsterdam
+***
+## soru 4:Kullanicidan Saniye alip gun, saat, dakika ve saniye olarak gosteriniz.
+## soru 5:kullanicidan Ismini ve soy ismini alip bir dikdortgenin ortasina yazidren bir program yaziniz.(isim ve soysisim uzunluguna gore dikdorthen buyuyup kuculmelidir)
+### ornek:
+I********I
+I                  I
+I  fenyx Academy.  I
+I                  I
+I********I
+## soru 6 : Kullaniciya en az 6 soru sorup, cevaplara gore yanitlar vereceginiz basit bir chat programi yaziniz.

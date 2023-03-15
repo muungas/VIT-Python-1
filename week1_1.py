@@ -31,6 +31,8 @@ print(surname2)
 print(adres)
 print("*"*len(adres))
 
+
+
 # question 4: Take seconds from the user and display them as days, hours, minutes and seconds.
 #1 day =86400 seconds, 1 hour =3600 seconds, 1 minute = 60 seconds
 # inputSeconds=int(input("Inpur the second:"))
@@ -88,3 +90,6 @@ elif cevap =="h":
             print("Sorun yok!")
 else:
     print("Sadece e ve h olarak cevap olarak kabul edilir.Bir daha deneyin!")
+    
+    
+#GAYET BASARILI, EMEGINIZE SAGLIK!
